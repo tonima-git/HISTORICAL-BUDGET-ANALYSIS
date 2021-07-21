@@ -7,6 +7,7 @@ The Data was collected from the https://www.indiabudget.gov.in/  site. The data 
 DATA EXTRACTION:
 
 The data was extracted from the Table - “General Statement of Revenue and Expenditure” under the section - “Budget of the Central Government”. The table comprised of the Revenue and the Expenditure heads with their respective Budget Estimate of the previous year, Revised Estimate of the previous year, and the Budget Estimate of the particular year. The pdf files had to be extracted to a csv/excel file to make analysis possible. There are various methods to extract data from pdfs: 
+
 a)	Copying and Pasting data: copy the selected data and paste in the csv file.
 
 b)	Manual Data Entry: Enter each information you want to put in the csv file.
